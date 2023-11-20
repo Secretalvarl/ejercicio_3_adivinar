@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_3_adivinar", "ejercicio_3_adivinar\ejercicio_3_adivinar.csproj", "{4C002424-F6EB-41A9-9DE3-8D9949816259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C002424-F6EB-41A9-9DE3-8D9949816259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C002424-F6EB-41A9-9DE3-8D9949816259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C002424-F6EB-41A9-9DE3-8D9949816259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C002424-F6EB-41A9-9DE3-8D9949816259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01128614-5F1F-4650-ADFE-9C139E48F10B}
+	EndGlobalSection
+EndGlobal

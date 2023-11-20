@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ejercicio_3_adivinar/1.0.0": {
+        "runtime": {
+          "ejercicio_3_adivinar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicio_3_adivinar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

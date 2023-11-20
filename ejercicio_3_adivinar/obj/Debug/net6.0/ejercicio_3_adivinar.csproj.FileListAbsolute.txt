@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\bin\Debug\net6.0\ejercicio_3_adivinar.exe
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\bin\Debug\net6.0\ejercicio_3_adivinar.deps.json
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\bin\Debug\net6.0\ejercicio_3_adivinar.runtimeconfig.json
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\bin\Debug\net6.0\ejercicio_3_adivinar.dll
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\bin\Debug\net6.0\ejercicio_3_adivinar.pdb
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\obj\Debug\net6.0\ejercicio_3_adivinar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\obj\Debug\net6.0\ejercicio_3_adivinar.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\obj\Debug\net6.0\ejercicio_3_adivinar.AssemblyInfo.cs
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\obj\Debug\net6.0\ejercicio_3_adivinar.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\obj\Debug\net6.0\ejercicio_3_adivinar.dll
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\obj\Debug\net6.0\refint\ejercicio_3_adivinar.dll
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\obj\Debug\net6.0\ejercicio_3_adivinar.pdb
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\obj\Debug\net6.0\ejercicio_3_adivinar.genruntimeconfig.cache
+C:\Users\usuario\source\repos\ejercicio_3_adivinar\ejercicio_3_adivinar\obj\Debug\net6.0\ref\ejercicio_3_adivinar.dll
